@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="z/z.cbp" />
+		<Project filename="znz/znz.cbp" />
+		<Project filename="nifti/nifti.cbp" />
+		<Project filename="mdimage/mdimage.cbp" />
+		<Project filename="unit_test/unit_test.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

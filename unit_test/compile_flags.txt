@@ -1,0 +1,15 @@
+-IC:\tools\cpp-dev\gcc-7.1.0-mingw64\lib\gcc\x86_64-w64-mingw32\7.1.0\include\c++
+-IC:\tools\cpp-dev\gcc-7.1.0-mingw64\lib\gcc\x86_64-w64-mingw32\7.1.0\include\c++\x86_64-w64-mingw32
+-IC:\tools\cpp-dev\gcc-7.1.0-mingw64\lib\gcc\x86_64-w64-mingw32\7.1.0\include\c++\backward
+-IC:\tools\cpp-dev\gcc-7.1.0-mingw64\lib\gcc\x86_64-w64-mingw32\7.1.0\include
+-IC:\tools\cpp-dev\gcc-7.1.0-mingw64\lib\gcc\x86_64-w64-mingw32\7.1.0\include-fixed
+-IC:\tools\cpp-dev\gcc-7.1.0-mingw64\x86_64-w64-mingw32\include
+-IC:\Users\amwink\github\amwink\image_work\unit_test
+-IC:\Users\amwink\github\amwink\image_work
+-IC:\Users\amwink\github\amwink
+-IC:\Users\amwink\github\amwink\image_work\unit_test\$(WorkspacePath)\z
+-IC:\Users\amwink\github\amwink\image_work\unit_test\$(WorkspacePath)\znz\include
+-IC:\Users\amwink\github\amwink\image_work\unit_test\$(WorkspacePath)\nifti\include
+-DHAVE_ZLIB
+-target
+x86_64-pc-windows-gnu
